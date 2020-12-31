@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Cr4IF9AEafUVpOfi9/nSgNfmjdn9PD8K0t6PYG6ujX2Sx+wQNUiKgz8eGbOAJtG8HWP+E6LArDkIkdF8ZS9uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TorZo\\Desktop\\repos\\KanyeWestAPI\\KanyeWestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TorZo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
